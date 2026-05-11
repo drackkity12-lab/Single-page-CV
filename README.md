@@ -1,1 +1,1 @@
-https://drackkity12-lab.github.io/Single-page-CV/
+https://roadmap.sh/projects/single-page-cv
